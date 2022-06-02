@@ -9,7 +9,7 @@ const Cart = () => {
         <div>
             <Navbar/>
         <div>
-            ggttgg
+            fuckkk u tejjaaaaa fuckk uuu
         </div>
         <Footer/>
         </div>
